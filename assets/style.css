@@ -9,7 +9,7 @@ body {
   text-align: center;
 }
 
-.outer-circle {
+.simon-board{
   margin: 0 auto;
   margin-top: 50px;
   border: solid 10px black;
@@ -80,4 +80,26 @@ body {
   z-index: 10;
   margin-top: 160px;
   margin-left: 160px;
+}
+
+.title {
+  font-size: 45px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.inline {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.display {  
+  border: solid 2px black;
+  border-radius: 10px;
+  color: white;
+  width: 60px;
+  height: 45px;
+  font-size: 40px;
+  background-color: #342626;
 }
