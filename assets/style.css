@@ -48,3 +48,23 @@ body {
 .red-active {
   background-color: darkred !important;
 }
+
+.yellow {
+  background-color: yellow;
+  -moz-border-radius: 0 0 0 300px;
+  border-radius: 0 0 0 300px;
+}
+
+.yellow-active {
+  background-color: #e6d47e !important;
+}
+
+.blue {
+  background-color: blue;
+  -moz-border-radius: 0 0 300px 0;
+  border-radius: 0 0 300px 0;
+}
+
+.blue-active {
+  background-color: darkblue !important;
+}
