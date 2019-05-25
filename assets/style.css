@@ -68,3 +68,16 @@ body {
 .blue-active {
   background-color: darkblue !important;
 }
+
+.board-controls {
+  border: 15px solid black;
+  height: 245px;
+  width: 245px;
+  border-radius: 150px;
+  background-color: #494646;
+  clear: both;
+  position: absolute;
+  z-index: 10;
+  margin-top: 160px;
+  margin-left: 160px;
+}
