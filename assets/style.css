@@ -3,3 +3,18 @@ body {
   font-family: 'Press Start 2P', cursive;
   color: white;
 }
+
+.container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.simonBoard {
+  margin: 0 auto;
+  margin-top: 50px;
+  border: solid 10px black;
+  width: 600px;
+  height: 600px;
+  border-radius: 600px;
+  box-shadow: 8px 8px 15px 5px #888888;
+}
